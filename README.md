@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello, I'm **Aditi Menon** <br> 
+# About Me:
+🍄 Hello, I'm **ADITI MENON** <br> 
 📚 I am an **UNDER GRAD BCA ANALYTICS STUDENT / DATA ENTHUSIAST** <br>
 💬 Ask me about **C, MYSQL, JAVA, GRAPHIC DESIGN & DATA ANALYSIS** <br> 
 🤝 I’m looking for **INTERNSHIP OPPORTUNITIES** <br>
