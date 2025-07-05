@@ -1,4 +1,5 @@
-![Image](https://github.com/user-attachments/assets/2cbc5de3-fc9f-413c-beb8-5ab98fe6647f)
+![3c4d89c113bb4814c6f6e102a46c5caf](https://github.com/user-attachments/assets/2915bcfe-ca53-4cd2-adf1-90f7870c9cb2)
+
 
 # About Me:
 🍄 Hello, I'm **ADITI MENON** <br> 
