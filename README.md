@@ -18,4 +18,4 @@ I love turning design ideas into lightning-fast, accessible interfaces that feel
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
-![Image](https://github.com/user-attachments/assets/2b86dd7c-6aad-44b6-9be4-1db8c3adbd2f)
+
