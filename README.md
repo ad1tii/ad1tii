@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/2b86dd7c-6aad-44b6-9be4-1db8c3adbd2f)
 # About Me:
 🍄 Hello, I'm **ADITI MENON** <br> 
 I am an Undergraduate BCA ANALYTICS Student | UI/UX Designer <br>
