@@ -1,4 +1,4 @@
-https://i.pinimg.com/originals/d0/af/a9/d0afa9dd759848e3b3ee2f5c3552f97c.gif
+
 
 # About Me:
 🍄 Hello, I'm **ADITI MENON** <br> 
