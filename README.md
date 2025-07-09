@@ -3,7 +3,7 @@
 # About Me:
 🍄 Hello, I'm **ADITI MENON** <br> 
 I am an Undergraduate BCA ANALYTICS Student | UI/UX Designer <br>
-I love turning design ideas into lightning-fast, accessible interfaces that feel effortless <br>
+I love turning design ideas into lightning-fast, accessible interfaces that feel effortless. <br>
 
 
 # 💻 Tech Stack:
