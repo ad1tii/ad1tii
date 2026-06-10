@@ -3,7 +3,7 @@
 # About Me:
 🍄 Hello, I'm **ADITI MENON** <br> 
 Data Analytics Graduate | UI/UX Designer <br>
-I love turning design ideas into lightning-fast, accessible interfaces that feel effortless. <br>
+I love exploring how data, technology, and creativity can come together to solve real-world problems. <br>
 
 
 # 💻 Tech Stack:
